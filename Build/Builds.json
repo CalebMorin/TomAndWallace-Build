@@ -1,6 +1,6 @@
 {
-"companyName": "Tyfus Games",
-"productName": "Tom And Wally",
+"companyName": "DefaultCompany",
+"productName": "TomAndWally",
 "productVersion": "0.1",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
